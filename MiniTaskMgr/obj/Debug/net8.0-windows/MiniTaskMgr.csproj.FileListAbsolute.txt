@@ -1,0 +1,16 @@
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.Form1.resources
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.csproj.GenerateResource.cache
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.AssemblyInfoInputs.cache
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.AssemblyInfo.cs
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.csproj.CoreCompileInputs.cache
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\bin\Debug\net8.0-windows\MiniTaskMgr.exe
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\bin\Debug\net8.0-windows\MiniTaskMgr.deps.json
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\bin\Debug\net8.0-windows\MiniTaskMgr.runtimeconfig.json
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\bin\Debug\net8.0-windows\MiniTaskMgr.dll
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\bin\Debug\net8.0-windows\MiniTaskMgr.pdb
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.dll
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\refint\MiniTaskMgr.dll
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.pdb
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\MiniTaskMgr.genruntimeconfig.cache
+C:\Users\danek\source\repos\MiniTaskMgr\MiniTaskMgr\obj\Debug\net8.0-windows\ref\MiniTaskMgr.dll
